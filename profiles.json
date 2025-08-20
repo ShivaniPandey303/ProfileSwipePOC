@@ -1,0 +1,63 @@
+
+ [
+  {
+    "id": 1,
+    "name": "Diya Mehta",
+    "age": 26,
+    "location": "Noida, India",
+    "bio": "Foodie, traveler, and book lover 📚✈️",
+    "interests": ["Travel", "Books", "Food"],
+    "bgColor": "#FFA500",
+    "imageURL": "https://images.unsplash.com/photo-1529626455594-4ff0802cfb7e?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 2,
+    "name": "Riya Sharma",
+    "age": 24,
+    "location": "Delhi, India",
+    "bio": "Designer with a love for art & music 🎨🎶",
+    "interests": ["Art", "Music", "Dance"],
+    "bgColor": "#FF4500",
+    "imageURL": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e"
+  },
+  {
+    "id": 3,
+    "name": "Karan Singh",
+    "age": 28,
+    "location": "Gurgaon, India",
+    "bio": "Tech geek. Gym rat. Always up for coffee ☕💪",
+    "bgColor": "#FFF500",
+    "interests": ["Tech", "Fitness", "Coffee"],
+    "imageURL": "https://images.unsplash.com/photo-1544723795-3fb6469f5b39"
+  },
+  {
+    "id": 4,
+    "name": "Sanjay Mehta",
+    "age": 29,
+    "location": "Noida, India",
+    "bio": "Foodie, traveler, and book lover 📚✈️",
+    "interests": ["Travel", "Books", "Food"],
+    "bgColor": "#FFA500",
+    "imageURL": "https://images.unsplash.com/photo-1544723795-3fb6469f5b39?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 5,
+    "name": "Taniya Sharma",
+    "age": 30,
+    "location": "Delhi, India",
+    "bio": "Designer with a love for art & music 🎨🎶",
+    "interests": ["Art", "Music", "Dance"],
+    "bgColor": "#FF4500",
+    "imageURL": "https://images.unsplash.com/photo-1607746882042-944635dfe10e?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 6,
+    "name": "Jatin Singh",
+    "age": 28,
+    "location": "Gurgaon, India",
+    "bio": "Tech geek. Gym rat. Always up for coffee ☕💪",
+    "bgColor": "#FFF500",
+    "interests": ["Tech", "Fitness", "Coffee"],
+    "imageURL": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
+  }
+]
